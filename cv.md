@@ -17,15 +17,15 @@ I wish for looking answers despite the complexity of the topic. Eventually, I ha
 **My primary job experience are following:**
 
 - Journalist
-- Content-manger/marketer
+- Content-manager/marketer
 - Support Specialist
 
 ### **Skills:**
 
-html/css/js - basic level
+html/css/js - basic level.
 
-Office Tools (Microsoft, OpenOffice, Google Docs)
-Project-managment tools: Asana, Trello, Slack
+Office Tools (Microsoft, OpenOffice, Google Docs).
+Project-managment tools: Asana, Trello, Slack.
 
 ### **Code Examples**
 
@@ -41,8 +41,8 @@ CMS Wordpress:
 ### **Education**
 
 Belarusian State University, Faculty of Journalism;
-Media workshops in 2012-2016 (Vilnus, Minsk, online)
-Courses on Coursera (Learning How To Learn), Udemy (The Complete Web Developer Course)
+Media workshops in 2012-2016 (Vilnus, Minsk, online).
+Courses on Coursera (Learning How To Learn), Udemy (The Complete Web Developer Course).
 
 ### **English Language:**
 

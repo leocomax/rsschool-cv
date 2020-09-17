@@ -41,8 +41,8 @@ CMS Wordpress:
 ### **Education**
 
 Belarusian State University, Faculty of Journalism;
-Media workshops in 2012-2016 (Vilnus, Minsk, online)
-Courses on Coursera (Learning How To Learn), Udemy (The Complete Web Developer Course)
+Media workshops in 2012-2016 (Vilnus, Minsk, online).
+Courses on Coursera (Learning How To Learn), Udemy (The Complete Web Developer Course).
 
 ### **English Language:**
 

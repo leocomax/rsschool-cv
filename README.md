@@ -1,2 +1,2 @@
 # rsschool-cv
-https://leocomax.github.io/rsschool-cv/cv
+https://leocomax.github.io/rsschool-cv/

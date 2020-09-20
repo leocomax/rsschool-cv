@@ -17,33 +17,33 @@ I wish for looking answers despite the complexity of the topic. Eventually, I ha
 **My primary job experience are following:**
 
 - Journalist
-- Content-manager/marketer
-- Support Specialist
+- Content manager/marketer
+- Support specialist
 
 ### **Skills:**
 
 html/css/js - basic level.
 
-Office Tools (Microsoft, OpenOffice, Google Docs).
-Project-managment tools: Asana, Trello, Slack.
+Office tools: Microsoft, OpenOffice, Google Docs).
+Project managment tools: Asana, Trello, Slack.
 
-### **Code Examples**
+### **Code Examples:**
 
 --
 
-### **Experience**
+### **Experience:**
 
-CMS Wordpress:
+CMS Wordpress, Tilda:
 
 - design, templates, plugins
-- setup and content-managment
+- setup and content managment
 
-### **Education**
+### **Education:**
 
-Belarusian State University, Faculty of Journalism;
+Belarusian State University, Faculty of Journalism.
 Media workshops in 2012-2016 (Vilnus, Minsk, online).
 Courses on Coursera (Learning How To Learn), Udemy (The Complete Web Developer Course).
 
 ### **English Language:**
 
-B2 (Upper Intermidiate). Private School (2000-2010), self-practice (podcasts, texts, videos, music).
+B2 (Upper Intermidiate). Private school (2000-2010), self-practice (podcasts, texts, videos, music).

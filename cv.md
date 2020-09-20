@@ -46,8 +46,4 @@ Courses on Coursera (Learning How To Learn), Udemy (The Complete Web Developer C
 
 ### **English Language:**
 
-<<<<<<< HEAD
 B2 (Upper Intermidiate). Private school (2000-2010), self-practice (podcasts, texts, videos, music).
-=======
-B2 (Upper Intermidiate). Private school (2000-2010), self-practice (podcasts, texts, videos, music).
->>>>>>> bec302f63a1d82cfe3fba8812401f5fbc683c06c

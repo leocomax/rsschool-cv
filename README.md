@@ -1,2 +1,2 @@
-# rsschool-cv
-CV for RS School
+# Rolling Scopes School CV
+https://leocomax.github.io/rsschool-cv/

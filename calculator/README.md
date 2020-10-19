@@ -1,2 +1,2 @@
 ## Calculator
-https://leocomax.github.io/calculator/index.html
+https://leocomax.github.io/calculator/

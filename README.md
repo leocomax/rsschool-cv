@@ -1,2 +1,2 @@
-## Rolling Scopes School CV
-https://leocomax.github.io/rsschool-cv/
+# Calculator
+https://leocomax.github.io/rsschool-cv/calculator/index.html

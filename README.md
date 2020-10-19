@@ -1,2 +1,2 @@
 # Calculator
-https://leocomax.github.io/rsschool-cv/index.html
+https://leocomax.github.io/rsschool-cv/calculator/index.html

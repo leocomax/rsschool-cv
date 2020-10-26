@@ -1,0 +1,67 @@
+:root {
+    --blur: 0;
+    --brightness: 100;
+    --contrast: 100;
+    --grayscale: 0;
+    --hue-rotate: 0;
+    --invert: 0;
+    --opacity: 1;
+    --saturate: 100;
+    --sepia: 0;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #CCC;
+  }
+  
+  .container-slider {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 800px;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  .slider {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+  }
+  
+  .portrait {
+    width: 35rem;
+    max-width: 100%;
+    margin: 3rem auto;
+    position: relative;
+    line-height: 0;
+  }
+  
+  .portrait::before {
+    content: '';
+    position: absolute;
+    width: 108%;
+    height: 110%;
+    z-index: -1;
+    left: -1.4rem;
+    top: -1rem;
+  }
+  
+  .image {
+    width: 100%;
+    filter: blur(calc(var(--blur) * 1px))
+        brightness(calc(var(--brightness) * 1%))
+        contrast(calc(var(--contrast) * 1%))
+        grayscale(calc(var(--grayscale) * 1%))
+        hue-rotate(calc(var(--hue-rotate) * 1deg))
+        invert(calc(var(--invert) * 1%))
+        opacity(var(--opacity))
+        saturate(calc(var(--saturate) * 1%))
+        sepia(calc(var(--sepia) * 1%));
+  }

@@ -1,0 +1,51 @@
+html {
+    font-size: 10px;
+    background: url('img/drumcover.jpg') bottom center;
+    background-size: cover;
+  }
+  
+  body,html {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .keys {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .key {
+    background: rgba(0,0,0,0.4);
+    border-radius: .5rem;
+    border: .4rem solid black;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem;
+    padding: 1rem .5rem;
+    text-align: center;
+    text-shadow: 0 0 .5rem black;
+    transition: all .07s ease;
+    width: 10rem;
+  }
+
+  .key .sound {
+    color: #ffc600;
+    font-size: 1.2rem;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+  }
+  
+  .playing {
+        border: 5px solid #ffc600;
+        box-shadow: 0 0 20px#ffc600;
+        transform: scale(2);
+      }
+
+  kbd {
+    display: block;
+    font-size: 4rem;
+  }
